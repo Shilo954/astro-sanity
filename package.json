@@ -15,8 +15,10 @@
         "@astrojs/react": "^3.6.2",
         "@astrojs/tailwind": "^5.1.0",
         "@astrojs/vercel": "^7.8.0",
-        "@sanity/client": "^6.19.1",
+        "@sanity/astro": "^3.1.6",
+        "@sanity/client": "^6.21.3",
         "@sanity/validation": "^3.14.4",
+        "@sanity/visual-editing": "^2.1.9",
         "@types/react": "^18.3.5",
         "@types/react-dom": "^18.3.0",
         "astro": "^4.9.2",
@@ -26,6 +28,7 @@
         "marked": "^12.0.2",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
+        "sanity": "^3.56.0",
         "tailwindcss": "^3.4.3"
     },
     "devDependencies": {
@@ -33,6 +36,7 @@
         "@sanity/import": "^3.37.4",
         "@stackbit/cms-sanity": "^0.2.12",
         "@stackbit/types": "^2.0.0",
+        "accessible-astro-components": "^2.3.6",
         "configstore": "5.0.1",
         "daisyui": "^4.10.2"
     }
