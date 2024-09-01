@@ -1,0 +1,143 @@
+{
+    "model": "page",
+    "srcType": "sanity",
+    "srcProjectId": "6ln7slga:production",
+    "presets": [
+        {
+            "label": "SAT",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "landing page"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "home",
+                "slug": "/",
+                "sections": [
+                    {
+                        "$$type": "heroSection",
+                        "heading": "A Diverse Combination Of Ideas And Hardwork, Aiming to Provide Quality Services&Products",
+                        "body": "At Shilo, we believe in the transformative power of persistence, artificial intelligence creativity. Our cutting-edge solutions are designed to elevate your business operations, enhance client's experience, and drive unprecedented growth.\n",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Our Services",
+                                "url": "/",
+                                "ariaLabel": null,
+                                "theme": "neutral"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Request For Appointment",
+                                "url": "/",
+                                "ariaLabel": null,
+                                "theme": "neutral"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Get Started",
+                                "url": "/register",
+                                "ariaLabel": null,
+                                "theme": "neutral"
+                            }
+                        ],
+                        "theme": "dark",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-9100e0a486222d827e4e71a08630c24de12d20e7-735x513-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 100
+                        },
+                        "width": "inset"
+                    },
+                    {
+                        "$$type": "logosSection",
+                        "heading": "Our Branch",
+                        "body": "Recognized excellence.\n",
+                        "items": [
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-f58ac79f9ddf3cd7845e4d4f30bb46e19aed1182-481x432-png",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "BMF logo"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-dbaf0c6e418c4d6eabcf7cf2da53601c21fb6dcc-442x400-png",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "The-hub logo"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-afd8bb27444773604ad8dc1e5fc48dd4b91daee5-438x264-png",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Shilo store logo"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-72f7ac0b73947bddc639610c1ed5fc59a520c29e-350x227-png",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Shilo-tech logo"
+                            }
+                        ],
+                        "theme": "light",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": null,
+                            "opacity": 44
+                        },
+                        "width": "full",
+                        "motion": null
+                    },
+                    {
+                        "$$type": "testimonialsSection",
+                        "heading": "Who?",
+                        "body": "The Person Behind Shilo.\n",
+                        "items": [
+                            {
+                                "$$type": "testimonial",
+                                "quote": "***Everyone Has an idea and Vision in mind of what they want to accomplish, When the Idea is so Fixated with your mind and no longer sleep it's not a vision but calling and this was mine. Am Mukuralinda Chaste and i believe that good is hard to accomplish but possible to achieve through persistence and self-motivation in accordance with the Higher Power.***\n",
+                                "author": {
+                                    "$$ref": "1QDC5Q7HPINuAOK5a90fbL",
+                                    "$$type": "person"
+                                },
+                                "theme": "transparent",
+                                "hasBorder": true
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-3159e9bebead20e7f1c3644f4b7f90a594b19aa8-736x1308-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 86
+                        },
+                        "width": "inset",
+                        "columns": "one"
+                    }
+                ],
+                "metaTitle": "SHILO",
+                "addTitleSuffix": true,
+                "metaDescription": null,
+                "socialImage": {
+                    "$$ref": "image-9f181bef7a8e45352b8f6fd89117fbc745676434-500x500-png",
+                    "$$type": "__asset_model"
+                }
+            }
+        }
+    ]
+}
